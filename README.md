@@ -1,4 +1,4 @@
-# phparr
+# phparr [![Build Status](https://travis-ci.org/hanamura/phparr.svg?branch=master)](https://travis-ci.org/hanamura/phparr)
 
 Output PHP array from JavaScript object.
 
