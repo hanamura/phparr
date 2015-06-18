@@ -16,12 +16,7 @@ var phparr = require('phparr');
 var result = phparr({
   foo: 'FOO',
   bar: 'BAR',
-  baz: [
-    'QUX',
-    1,
-    true,
-    null
-  ]
+  baz: ['QUX', 1, true, null]
 });
 console.log(result);
 ```
