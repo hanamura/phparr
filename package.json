@@ -16,5 +16,17 @@
   "keywords": [
     "php",
     "json"
-  ]
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanamura/phparr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hanamura/phparr/issues"
+  },
+  "homepage": "https://github.com/hanamura/phparr#readme"
 }
