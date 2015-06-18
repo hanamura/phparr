@@ -29,16 +29,7 @@ console.log(result);
 Output:
 
 ```
-[
-  "foo" => "FOO",
-  "bar" => "BAR",
-  "baz" => [
-    "QUX",
-    1,
-    true,
-    null
-  ]
-]
+["foo"=>"FOO","bar"=>"BAR","baz"=>["QUX",1,true,null]]
 ```
 
 ## License
